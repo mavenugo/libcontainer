@@ -32,3 +32,9 @@ vendor
 
 # Container.json created by IT
 integration/container.json
+
+### https://raw.github.com/github/gitignore/master/Global/Vagrant.gitignore
+
+.vagrant/
+
+
